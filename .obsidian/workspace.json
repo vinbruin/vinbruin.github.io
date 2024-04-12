@@ -165,15 +165,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "161b7af4ccff1dba",
+        "id": "6d4eabc1baf0d50a",
         "type": "window",
         "children": [
           {
-            "id": "1b2ac72e885edacb",
+            "id": "d6f645bb205b9f65",
             "type": "tabs",
             "children": [
               {
-                "id": "c27fa0b7f827cd7e",
+                "id": "5b93d7ebfafd1551",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -197,7 +197,7 @@
       }
     ]
   },
-  "active": "c27fa0b7f827cd7e",
+  "active": "5b93d7ebfafd1551",
   "lastOpenFiles": [
     "docs/Github Pages.md",
     "index.md",

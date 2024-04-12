@@ -1,6 +1,5 @@
 # ![my Blog|25](https://avatars.githubusercontent.com/u/36905296?v=4) Vinbruin's Blog
 
-
 > This is my personal blog, nice to meet you.
 
 > [!info] 基本信息
@@ -15,11 +14,10 @@
 > 料峭春风吹酒醒，微冷，山头斜照却相迎。回首向来萧瑟处，归去，也无风雨也无晴。
 > ——宋代·苏轼《定风波·莫听穿林打叶声》
 
-
 ---
-> ⭐相关链接⭐
-> 	🏠 [vinbruin home page](Https://vinbruin.github.io/)
-> 	📦 [Github repositories](https://github.com/vinbruin)
-> 	📕 [Content Page](./index.html)
 
+###  ⭐相关链接⭐
+> 🏠 [vinbruin home page](Https://vinbruin.github.io/)
+> 📦 [Github repositories](https://github.com/vinbruin)
+> 📕 [Content Page](index.html)
 
