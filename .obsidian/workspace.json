@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/网络课程资源汇总.md",
-                "mode": "preview",
+                "file": "index.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Github Pages.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Github Pages.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Github Pages.md"
+                "file": "index.md"
               }
             }
           },
@@ -156,29 +156,29 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "floating": {
-    "id": "1d9f58d157426f6f",
+    "id": "3b28684d9073e95e",
     "type": "floating",
     "children": [
       {
-        "id": "5cf83b0114f663cf",
+        "id": "161b7af4ccff1dba",
         "type": "window",
         "children": [
           {
-            "id": "40215d4862e1af99",
+            "id": "1b2ac72e885edacb",
             "type": "tabs",
             "children": [
               {
-                "id": "90fbfb64bcb7ac5d",
+                "id": "c27fa0b7f827cd7e",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "docs/网络课程资源汇总.md",
+                    "file": "index.md",
                     "mode": "source",
                     "source": false
                   }
@@ -188,20 +188,22 @@
           }
         ],
         "direction": "vertical",
-        "x": 317,
-        "y": 338,
+        "x": 316,
+        "y": 337,
         "width": 902,
         "height": 502,
         "maximize": false,
-        "zoom": 0
+        "zoom": 0.5
       }
     ]
   },
-  "active": "90fbfb64bcb7ac5d",
+  "active": "c27fa0b7f827cd7e",
   "lastOpenFiles": [
-    "docs/网络课程资源汇总.md",
     "docs/Github Pages.md",
     "index.md",
+    "docs/网络课程资源汇总.md",
+    "README.md",
+    "Attachments",
     "docs"
   ]
 }

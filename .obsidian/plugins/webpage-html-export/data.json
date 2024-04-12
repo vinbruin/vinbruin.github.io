@@ -25,7 +25,7 @@
   "addSearchBar": false,
   "addGraphView": false,
   "addTitle": true,
-  "addRSSFeed": true,
+  "addRSSFeed": false,
   "siteURL": "",
   "authorName": "Vinbruin",
   "vaultTitle": "Vinbruin's Blog",
@@ -43,7 +43,7 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "D:\\\\zuowen\\Desktop\\New folder",
+  "exportPath": "D:\\\\zuowen\\Documents\\ObsidianVal\\vinbruin_github\\web",
   "filesToExport": [
     [
       "all"
