@@ -160,44 +160,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "3b28684d9073e95e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6d4eabc1baf0d50a",
-        "type": "window",
-        "children": [
-          {
-            "id": "d6f645bb205b9f65",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5b93d7ebfafd1551",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "index.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 316,
-        "y": 337,
-        "width": 902,
-        "height": 502,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "5b93d7ebfafd1551",
+  "active": "2645b08d794e9b16",
   "lastOpenFiles": [
     "docs/Github Pages.md",
     "index.md",
