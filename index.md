@@ -2,6 +2,10 @@
 
 > This is my personal blog, nice to meet you.
 
+###  ⭐相关链接⭐
+> 🏠 [Blog homepage](Https://vinbruin.github.io/)      📦 [Github repositories](https://github.com/vinbruin)    📕 [Content Page](https://vinbruin.github.io/web/index.html)
+
+
 > [!info] 基本信息
 > 日期：2024-4-11
 > 时间：20:02
@@ -15,9 +19,4 @@
 > ——宋代·苏轼《定风波·莫听穿林打叶声》
 
 ---
-
-###  ⭐相关链接⭐
-> 🏠 [vinbruin home page](Https://vinbruin.github.io/)
-> 📦 [Github repositories](https://github.com/vinbruin)
-> 📕 [Content Page](index.html)
 
