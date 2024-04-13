@@ -21,7 +21,7 @@
   "deleteOldFiles": false,
   "addThemeToggle": true,
   "addOutline": true,
-  "addFileNav": true,
+  "addFileNav": false,
   "addSearchBar": false,
   "addGraphView": false,
   "addTitle": true,
@@ -29,7 +29,7 @@
   "siteURL": "",
   "authorName": "Vinbruin",
   "vaultTitle": "Vinbruin's Blog",
-  "exportPreset": "documents",
+  "exportPreset": "raw-documents",
   "openAfterExport": false,
   "graphAttractionForce": 1,
   "graphLinkLength": 10,
@@ -43,7 +43,7 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "D:\\\\zuowen\\Documents\\ObsidianVal\\vinbruin_github\\web",
+  "exportPath": "D:\\\\zuowen\\Documents\\ObsidianVal\\vinbruin_github",
   "filesToExport": [
     [
       "all"
