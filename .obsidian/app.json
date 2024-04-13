@@ -2,5 +2,10 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "docs",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "/Attachments"
+  "attachmentFolderPath": "Attachments",
+  "foldIndent": false,
+  "showLineNumber": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false
 }

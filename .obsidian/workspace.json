@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
+                "file": "docs/在线课程资源汇总.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/网络课程资源汇总.md",
+                "file": "docs/在线课程资源汇总.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/网络课程资源汇总.md",
+                "file": "docs/在线课程资源汇总.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/网络课程资源汇总.md"
+                "file": "docs/在线课程资源汇总.md"
               }
             }
           },
@@ -160,48 +160,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "3f36fe024401b7e0",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d086f417be313131",
-        "type": "window",
-        "children": [
-          {
-            "id": "b123c46f66d7cd67",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "31bc528e222b25c9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "docs/网络课程资源汇总.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 316,
-        "y": 337,
-        "width": 902,
-        "height": 502,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "31bc528e222b25c9",
+  "active": "2645b08d794e9b16",
   "lastOpenFiles": [
-    "docs/Github Pages.md",
+    "docs/学术资源汇总.md",
     "index.md",
-    "docs/网络课程资源汇总.md",
+    "docs/在线课程资源汇总.md",
+    "docs/Github Pages.md",
+    "Attachments/学术资源汇总.md",
     "README.md",
     "Attachments",
     "docs"

@@ -4,5 +4,8 @@
   "enabledCssSnippets": [
     "text_align"
   ],
-  "textFontFamily": "Times New Roman,华文中宋"
+  "textFontFamily": "Times New Roman,华文中宋",
+  "interfaceFontFamily": "微软雅黑",
+  "monospaceFontFamily": "Cascadia Code",
+  "nativeMenus": true
 }
